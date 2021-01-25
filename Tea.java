@@ -7,4 +7,8 @@ public class Tea {
 		System.out.println(teaName);
 	}
 
+	public void teachA() {
+
+	}
+
 }
